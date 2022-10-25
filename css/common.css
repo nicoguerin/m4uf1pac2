@@ -27,7 +27,7 @@ header {
 }
 
 .logoCF {
-    width: 9vw;
+    width: 10vw;
     height: auto;
     margin-top: 10px;
     border-radius: 10px;
@@ -56,45 +56,43 @@ header {
     text-decoration: 2px underline;
 }
 
+.contingut {
+    position: relative;
+    top: 22vh;
+}
+
 main {
     padding: 20px;
     margin: 10px;
-    position: absolute;
-    top: 22vh;
-    height: 100%;
 }
 
 footer {
-    width: 100%;
-    position: fixed;
-    bottom: 0;
-    background-color: #354259;
-    justify-content: baseline;
-
+    /* background-color: #354259; */
     padding: 0.5em;
+    margin: 0;
     text-align: center;
-    color: white;
-    border: 2px solid black;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    border-top: 1px solid black;
 }
 
 .textFooter {
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .socialIcon {
-    height: 20px;
+    height: 15px;
     width: auto;
 }
 
 .social {
     display: inline-block;
-    align-items: center;
     margin: 0 1.5rem 0 1.5rem;
+    border-bottom: 2em;
 }
 
 .socialText {
-    color: white;
+    margin-left: 5px;
+    font-size: 13px;
+    color: black;
     text-decoration: none;
     letter-spacing: 0.05em;
 }
