@@ -64,8 +64,10 @@ main {
     margin: 10px;
 }
 
-main > h2 {
+.titolPagina{
     font-size: 1.75em;
+    text-transform: uppercase;
+    text-align: left;
 }
 
 footer {

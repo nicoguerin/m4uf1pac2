@@ -7,11 +7,6 @@ main {
     margin: 0 2em 0 2em;
 }
 
-.titolPag {
-    /* text-align: left; */
-    margin-bottom: 0;
-}
-
 iframe {
     height: 40vh;
     width: 40vw;
