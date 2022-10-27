@@ -56,7 +56,8 @@ header {
     text-decoration: 2px underline;
 }
 
-.contingut {
+
+main, footer {
     position: relative;
     top: 22vh;
 }
