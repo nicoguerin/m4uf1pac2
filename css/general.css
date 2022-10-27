@@ -9,7 +9,7 @@ main ul li {
     margin: 0 2vw 2vw 2vw;
 }
 
-.imatgeActor {
+.imatgeActor{
     width: 20vw;
     height: 20vw;
     object-fit: cover;
