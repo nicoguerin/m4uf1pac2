@@ -40,8 +40,6 @@ input {
     transform: translateY(-50%);
 
     background-color: #1c1c1c;
-    color: rgba(255, 255, 255, .9);
-    
     cursor: pointer;
     text-align: center;
     border-radius: 20px;
@@ -64,8 +62,7 @@ label span {
 }
 
 .prev:hover, .next:hover {
-    background-color: rgba(0, 0, 0, .9);
-    color: #fff;
+    background-color: #000;
 }
 
 #i1:checked~#one,
