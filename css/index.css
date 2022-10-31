@@ -3,9 +3,7 @@
 }
 
 .contPrincipal {
-    /* height: 55vh; */
     text-align: center;
-    /* border: 1px solid black; */
     padding: 1vw;
     display: table;
     margin: 0 auto;
@@ -22,7 +20,6 @@
 .contPrincipal img {
     width: 40vw;
     height: auto;
-
     border: none;
 }
 
@@ -31,7 +28,6 @@
     width: 25vw;
     color: white;
     background-color: #354259;
-    /* margin-top: 8vh; */
     margin-left: 8vw;
 }
 
