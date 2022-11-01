@@ -20,9 +20,10 @@ input {
 
 .slide .slide_img {
     position: absolute;
-    background-color: #1c1c1c;
     width: 100%;
     height: 100%;
+    background-color: #1c1c1c;
+    border-radius: 10px;
 }
 
 .slide .slide_img img {

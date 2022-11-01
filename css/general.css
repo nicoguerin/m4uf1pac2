@@ -61,7 +61,3 @@ main ul li {
 .trama:hover .titolTrama {
     text-decoration: 2px underline;
 } 
-
-.trama:hover .textTrama {
-    opacity: 1;
-} 
